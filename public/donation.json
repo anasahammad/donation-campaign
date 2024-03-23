@@ -1,0 +1,114 @@
+[
+    {   
+       "id": 1, 
+      "picture": "https://pkgm.org/imgs/child-collecting-gift.jpg",
+      "title": "Support Education for Underprivileged Children",
+      "category": "Education",
+      "category_bg": "#FFC107",
+      "card_bg": "#FFF8E1",
+      "text_button_bg": "#FF5722",
+      "description": "Help provide education to children who lack access to proper schooling. Your donation will fund school supplies, teacher salaries, and educational programs.",
+      "price": "$25"
+    },
+    {
+        "id": 2, 
+      "picture": "https://plus.unsplash.com/premium_photo-1683141170766-017bf7a2ecb4?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "title": "Provide Food for Families in Need",
+      "category": "Food",
+      "category_bg": "#4CAF50",
+      "card_bg": "#E8F5E9",
+      "text_button_bg": "#FF9800",
+      "description": "Contribute to feeding families facing food insecurity. Your donation will support food banks, soup kitchens, and meal delivery programs.",
+      "price": "$20"
+    },
+    {
+        "id": 3, 
+      "picture": "https://img.freepik.com/free-photo/woman-playing-with-rescue-dogs-shelter_23-2148682984.jpg?w=826&t=st=1711187710~exp=1711188310~hmac=d8249f4a2c2af0222cef9c0f23d3cf0a53cf8df874f9e07c2ddffa99b1f9bc20",
+      "title": "Rescue Animals from Shelters",
+      "category": "Animal Welfare",
+      "category_bg": "#2196F3",
+      "card_bg": "#E3F2FD",
+      "text_button_bg": "#FFC107",
+      "description": "Help provide care and shelter for animals awaiting adoption. Your donation will fund veterinary care, food, and facility improvements.",
+      "price": "$30"
+    },
+    {
+        "id": 4, 
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-sCgMIkOXHJfGHesJkjMmWla6ot1oEzD7_V-8yT5Nn8gnY12txzJxXtVbE57oyPMgH6w&usqp=CAU",
+      "title": "Support Medical Treatment for Cancer Patients",
+      "category": "Health",
+      "category_bg": "#FF5722",
+      "card_bg": "#FFEBEE",
+      "text_button_bg": "#4CAF50",
+      "description": "Donate to fund medical treatments, medications, and support services for cancer patients undergoing treatment. Every contribution makes a difference.",
+      "price": "$50"
+    },
+    {
+        "id": 5, 
+      "picture": "https://sustainabletravel.org/wp-content/uploads/Blog-Image-Planting-Tree-Seedling.jpg",
+      "title": "Plant Trees to Combat Climate Change",
+      "category": "Environment",
+      "category_bg": "#8BC34A",
+      "card_bg": "#E8F5E9",
+      "text_button_bg": "#FF5722",
+      "description": "Join the effort to combat climate change by planting trees in deforested areas. Your donation will support reforestation efforts and environmental conservation.",
+      "price": "$15"
+    },
+    {
+        "id": 6, 
+      "picture": "https://media.istockphoto.com/id/490824692/photo/health-symbol-water-scarcity-in-african-countries.jpg?s=1024x1024&w=is&k=20&c=M9ZOmpnfCQOKLCpghbjlBoWYN_-PVzmCW2_JtqYV7YQ=",
+      "title": "Provide Clean Water to Communities",
+      "category": "Water",
+      "category_bg": "#03A9F4",
+      "card_bg": "#E1F5FE",
+      "text_button_bg": "#FF9800",
+      "description": "Support initiatives to provide clean and safe drinking water to communities in need. Your donation will fund water purification systems, wells, and infrastructure.",
+      "price": "$35"
+    },
+    {
+        "id": 7, 
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXam3zYkllSm7Vc9033kzQxBu45i52I7UtCwizz8k9wUX0qhyTWJV1qL28yw&s",
+      "title": "Empower Women through Microfinance",
+      "category": "Empowerment",
+      "category_bg": "#FFC107",
+      "card_bg": "#FFFDE7",
+      "text_button_bg": "#2196F3",
+      "description": "Contribute to empowering women in developing countries through microfinance loans. Your donation will help women start businesses and improve their livelihoods.",
+      "price": "$40"
+    },
+    {
+        "id": 8, 
+      "picture": "https://media.istockphoto.com/id/1370576630/photo/older-mother-comforting-sad-adult.jpg?s=612x612&w=0&k=20&c=X7jGFqjqGOgAaXhga2AoxNsU9lOib1xxOUkvYZqaBmk=",
+      "title": "Support Mental Health Awareness",
+      "category": "Health",
+      "category_bg": "#FF5722",
+      "card_bg": "#FCE4EC",
+      "text_button_bg": "#8BC34A",
+      "description": "Donate to raise awareness and support mental health initiatives. Your contribution will fund education, advocacy, and support services for individuals and families.",
+      "price": "$25"
+    },
+    {
+        "id": 9, 
+      "picture": "https://images.unsplash.com/photo-1535338454770-8be927b5a00b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8ZW5kYW5nZXJlZCUyMHNwZWNpZXN8ZW58MHx8MHx8fDA%3D",
+      "title": "Protect Endangered Species",
+      "category": "Animal Welfare",
+      "category_bg": "#2196F3",
+      "card_bg": "#E1F5FE",
+      "text_button_bg": "#FF5722",
+      "description": "Help protect endangered species from extinction. Your donation will support conservation efforts, habitat restoration, and wildlife protection programs.",
+      "price": "$30"
+    },
+    {
+        "id": 10, 
+      "picture": "https://images.unsplash.com/photo-1523737000522-87c15d8efcc4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8UHJvdmlkZSUyMFNoZWx0ZXIlMjBmb3IlMjBIb21lbGVzcyUyMEluZGl2aWR1YWxzfGVufDB8fDB8fHww",
+      "title": "Provide Shelter for Homeless Individuals",
+      "category": "Housing",
+      "category_bg": "#795548",
+      "card_bg": "#EFEBE9",
+      "text_button_bg": "#FF9800",
+      "description": "Support organizations that provide shelter and housing assistance to homeless individuals and families. Your donation will help provide safe and stable housing.",
+      "price": "$45"
+    },
+]
+   
+  
