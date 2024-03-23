@@ -1,7 +1,7 @@
 [
-    {   
+    {  
        "id": 1, 
-      "picture": "https://pkgm.org/imgs/child-collecting-gift.jpg",
+      "picture": "https://plus.unsplash.com/premium_photo-1683141170766-017bf7a2ecb4?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "title": "Support Education for Underprivileged Children",
       "category": "Education",
       "category_bg": "#FFC107",
@@ -12,7 +12,7 @@
     },
     {
         "id": 2, 
-      "picture": "https://plus.unsplash.com/premium_photo-1683141170766-017bf7a2ecb4?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "picture": " https://pkgm.org/imgs/child-collecting-gift.jpg",
       "title": "Provide Food for Families in Need",
       "category": "Food",
       "category_bg": "#4CAF50",
@@ -108,7 +108,7 @@
       "text_button_bg": "#FF9800",
       "description": "Support organizations that provide shelter and housing assistance to homeless individuals and families. Your donation will help provide safe and stable housing.",
       "price": "$45"
-    },
-]
-   
+    }
+
+  ]  
   
