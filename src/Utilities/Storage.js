@@ -1,3 +1,4 @@
+
 export const getDonate = ()=>{
     let donation = [];
     const storeDonation = localStorage.getItem('donation');
@@ -18,4 +19,10 @@ export const saveItem = donate =>{
     else{
         alert("Already exist")
     }
+}
+
+export const deleteItem = id=>{
+    let  donation = getDonate()
+    const remainig = donation.filter(item=> item.id !== id)
+    localStorage.removeItem("donation", JSON.stringify(remainig));
 }

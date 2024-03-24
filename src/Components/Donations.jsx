@@ -1,11 +1,15 @@
 import { Link } from "react-router-dom";
+import { deleteItem, getDonate } from "../Utilities/Storage";
+import { useState } from "react";
 
 
 const Donations = ({item}) => {
 
     const {picture, price, title, text_button_bg, category, card_bg, id} = item;
+
+    
     return (
-        <div style={{backgroundColor: card_bg}} className="card lg:card-side  shadow-xl">
+        <div style={{backgroundColor: card_bg}} className="card lg:card-side  shadow-xl relative">
   <figure><img src={picture} alt="Album"/></figure>
   <div className="card-body">
   <div className="card-actions">
@@ -23,6 +27,8 @@ const Donations = ({item}) => {
     </div>
    
   </div>
+
+  
 </div>
     );
 };
