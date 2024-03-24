@@ -8,7 +8,7 @@
       "card_bg": "#FFF8E1",
       "text_button_bg": "#FF5722",
       "description": "Help provide education to children who lack access to proper schooling. Your donation will fund school supplies, teacher salaries, and educational programs.",
-      "price": "$25"
+      "price": "25"
     },
     {
         "id": 2, 
@@ -19,7 +19,7 @@
       "card_bg": "#E8F5E9",
       "text_button_bg": "#FF9800",
       "description": "Contribute to feeding families facing food insecurity. Your donation will support food banks, soup kitchens, and meal delivery programs.",
-      "price": "$20"
+      "price": "20"
     },
     {
         "id": 3, 
@@ -30,7 +30,7 @@
       "card_bg": "#E3F2FD",
       "text_button_bg": "#FFC107",
       "description": "Help provide care and shelter for animals awaiting adoption. Your donation will fund veterinary care, food, and facility improvements.",
-      "price": "$30"
+      "price": "30"
     },
     {
         "id": 4, 
@@ -41,7 +41,7 @@
       "card_bg": "#FFEBEE",
       "text_button_bg": "#4CAF50",
       "description": "Donate to fund medical treatments, medications, and support services for cancer patients undergoing treatment. Every contribution makes a difference.",
-      "price": "$50"
+      "price": "50"
     },
     {
         "id": 5, 
@@ -52,7 +52,7 @@
       "card_bg": "#E8F5E9",
       "text_button_bg": "#FF5722",
       "description": "Join the effort to combat climate change by planting trees in deforested areas. Your donation will support reforestation efforts and environmental conservation.",
-      "price": "$15"
+      "price": "15"
     },
     {
         "id": 6, 
@@ -63,7 +63,7 @@
       "card_bg": "#E1F5FE",
       "text_button_bg": "#FF9800",
       "description": "Support initiatives to provide clean and safe drinking water to communities in need. Your donation will fund water purification systems, wells, and infrastructure.",
-      "price": "$35"
+      "price": "35"
     },
     {
         "id": 7, 
@@ -74,7 +74,7 @@
       "card_bg": "#FFFDE7",
       "text_button_bg": "#2196F3",
       "description": "Contribute to empowering women in developing countries through microfinance loans. Your donation will help women start businesses and improve their livelihoods.",
-      "price": "$40"
+      "price": "40"
     },
     {
         "id": 8, 
@@ -85,7 +85,7 @@
       "card_bg": "#FCE4EC",
       "text_button_bg": "#8BC34A",
       "description": "Donate to raise awareness and support mental health initiatives. Your contribution will fund education, advocacy, and support services for individuals and families.",
-      "price": "$25"
+      "price": "25"
     },
     {
         "id": 9, 
@@ -96,7 +96,7 @@
       "card_bg": "#E1F5FE",
       "text_button_bg": "#FF5722",
       "description": "Help protect endangered species from extinction. Your donation will support conservation efforts, habitat restoration, and wildlife protection programs.",
-      "price": "$30"
+      "price": "30"
     },
     {
         "id": 10, 
@@ -107,7 +107,7 @@
       "card_bg": "#EFEBE9",
       "text_button_bg": "#FF9800",
       "description": "Support organizations that provide shelter and housing assistance to homeless individuals and families. Your donation will help provide safe and stable housing.",
-      "price": "$45"
+      "price": "45"
     }
 
   ]  

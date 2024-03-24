@@ -5,7 +5,7 @@ import Card from "../Components/Card";
 
 const Home = () => {
     const allData = useLoaderData();
-    console.log(allData);
+  
     return (
         <div className="max-w-7xl mx-auto">
            <Banner></Banner>
