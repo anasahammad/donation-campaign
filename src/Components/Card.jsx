@@ -13,7 +13,7 @@ const Card = ({data}) => {
         <div className="flex flex-col justify-between p-6 space-y-8">
             <div className="space-y-2">
 
-            <Link to={`/donation-details/${id}`}>
+            <Link to={`/donation-details/${id}`}   state={data.title}> 
             
             <button onClick={()=> handleBtn(data)}  style={{backgroundColor: text_button_bg}} type="button" className={`flex btn text-white  p-3 font-semibold tracking-wide rounded-md `}>{category}</button>
             </Link>
