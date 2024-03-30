@@ -1,7 +1,12 @@
-import React, { useEffect } from 'react';
+import  { useEffect } from 'react';
 import Navbar from './Navbar';
 import Footer from './Footer';
 import { Outlet, useLocation } from 'react-router-dom';
+import AOS from 'aos';
+import 'aos/dist/aos.css'; 
+
+
+AOS.init();
 
 const Root = () => {
     const loc = useLocation();
@@ -15,7 +20,7 @@ const Root = () => {
         if(loc.state){
             document.title = loc.state;
         }
-    }, [loc.pathname])
+    }, [loc.pathname, loc.state])
     return (
         <div>
             <Navbar></Navbar>

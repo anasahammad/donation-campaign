@@ -11,7 +11,7 @@ const Home = () => {
            <Banner></Banner>
            <div className="grid grid-cols-4 gap-6 mt-20">
            {
-            allData.map(data=> <Card key={data.id} data={data}></Card>)
+            allData.map((data, index)=> <Card key={data.id} index={index} length = {allData.length }data={data}></Card>)
            }
            </div>
           

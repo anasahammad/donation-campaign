@@ -6,7 +6,7 @@ const Banner = () => {
   <div className="hero-overlay bg-opacity-10"></div>
   <div className="hero-content text-center text-neutral-content">
     <div className="">
-      <h1 className="mb-5 text-5xl text-red-500 font-bold">I Grow By Helping People In Need</h1>
+      <h1 data-aos="fade-left" data-aos-duration="1000" className="mb-5 text-5xl text-red-500 font-bold">I Grow By Helping People In Need</h1>
      
       <div className="join ">
   <input className="input  join-item" placeholder="Search here"/>
